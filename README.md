@@ -9,7 +9,7 @@ I wanted to practice working with APIs and learning how to build a dark and ligh
 For the project I used HTML, CSS, vanilla JavaScript and REST Countries API (https://restcountries.com/). I wanted to focus on working with the basics, that's why so far most of my projects have used vanilla JavaScript, because I want to be completely fluent and proficient in JavaScript, before I start using other frameworks. 
 
 ## WHAT I LEARNED
-This was mainly an exercise on how to use APIs, the whole design and building part was pretty straight forward. It was the first time I used '--root' to change colors between light and dark, which was fun and I ran into some issues with the API, at first I didn't know what parameters to use when there's a number instead of a name.
+This was mainly an exercise on how to use APIs, the whole design and building part was pretty straight forward. It was the first time I used ':root' to change colors between light and dark, which was fun and I ran into some issues with the API, at first I didn't know what parameters to use when there's a number instead of a name.
 
-## DEPLOYMENT
+## WHERE TO FIND IT
 I deployed it with GitHub pages : https://afcic.github.io/FrontEndMentor_RESTCountriesAPI/ 
